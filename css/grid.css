@@ -60,6 +60,14 @@ img {
 		width: 100%;
 	}
 
+
+	.about .content h2 {
+	font-size: 3rem;
+	margin-top: 0;
+	font-weight: 200;
+	text-align: center;
+}
+
 }
 
 @media (min-width: 768px) {
@@ -76,9 +84,11 @@ img {
 	}
 	.grid-container > [class^="grid-"]:first-child {
 		margin-left: 0;
+		
 	}
 	.grid-container > [class^="grid-"]:last-child {
-		float: right;
+		
+		margin-left: 0;
 	}
 
 	/* Columns are 65px wide, with 20px gutters
