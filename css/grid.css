@@ -108,6 +108,7 @@ img {
 }
 
 /*Work*/
+
 .work .karma, .info, .times {
 	vertical-align: center;
 	margin: 0 auto;
@@ -120,6 +121,15 @@ img {
 	padding-bottom: 2rem;
 	
 	
+}
+
+.work h2 {
+	font-size: 3rem;
+	margin: 0;
+
+	font-weight: 200;
+	color: #f4f4f4;
+	padding-bottom: .5rem;
 }
 
 }
@@ -207,6 +217,8 @@ img {
 	padding-bottom: 3rem;
 	padding-left: 1rem;
 }
+
+
 
 	/* Clearfix
 	================================ */
